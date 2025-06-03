@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75047&width=435&lines=Hello+%3Ccoders%2F%3E" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75047&width=435&lines=Hello+%3Ccodes%2F%3E" alt="Typing SVG" />
 
 # مهد حاتم 👋
 
