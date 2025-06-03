@@ -2,9 +2,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75047&width=435&lines=Hello+%3Ccoders%2F%3E" alt="Typing SVG" />
 
-# Muhannd Hatem | مهد حاتم 👋
+# مهد حاتم 👋
 
-🎯 Filter Programmer | 🎥 Creative Coder | 👨‍💻 Flutter Developer  
+🎯 Filter Programmer | 👨‍💻 Flutter Developer  
 
 ---
 
