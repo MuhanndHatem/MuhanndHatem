@@ -30,22 +30,25 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/muhanndhatem">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=muhanndhatem&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+</a>
+
+<a href="https://github.com/muhanndhatem">
+  <img width="48%" src="https://streak-stats.demolab.com?user=muhanndhatem&theme=radical&hide_border=true" />
+</a>
+
+</div>
+
+
 ### 🎯 Mission
 
 - 🌍 Bringing creative ideas to life with code  
 - 🛠️ Making filters that enhance user experience  
 - 📚 Sharing knowledge in Ar
 
-- ## 📊 GitHub Stats
 
-<div align="center">
-
-<a href="https://github.com/USERNAME">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-</a>
-
-<a href="https://github.com/USERNAME">
-  <img width="48%" src="https://streak-stats.demolab.com?user=USERNAME&theme=radical&hide_border=true" />
-</a>
-
-</div>
